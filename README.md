@@ -18,7 +18,7 @@ git clone https://github.com/Err0r-ICA/VARIOUS.git
 
 cd VARIOUS
 
-python3 VARIOUS```
+python3 Various```
 
 ## My Accounts
 
