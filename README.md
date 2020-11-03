@@ -1,6 +1,7 @@
 ![logo](https://i.postimg.cc/pVCkbv9w/20200606-022452.png) 
 
-All-in-One Toolkit
+<font size="5"><b>All-in-One Toolkit</b></font>: Choose your favourite <br>
+Warning: Encrypted script. Password required
 
 ## Screenshot
 ![Screenshot](https://i.postimg.cc/bppjyCLs/Screenshot-20200428-003046-Termux.jpg)
